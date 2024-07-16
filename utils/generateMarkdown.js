@@ -88,13 +88,13 @@ function renderLicenseLink(license) {
 
 // Return the license section of README, if there is no license, return an empty string
 function renderLicenseSection(license) {
-  return `${renderLicenseBadge(license)}
-
-This project is licensed under ${renderLicenseLink(license)}.`
-  
   if (license === "none") {
   return "";
   }
+
+   return `${renderLicenseBadge(license)}
+
+This project is licensed under ${renderLicenseLink(license)}.`
 }
 
 // Generate README markdown

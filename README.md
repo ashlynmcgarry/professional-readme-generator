@@ -21,7 +21,7 @@ To utilise the README Generator, clone the repository and open it in VS code. Op
 
 The generator can then be used by entering 'node index.js' within VS Code's terminal and following the prompts. For more details, see usage video below. 
 
-[Watch the video on Google Drive here.](https://drive.google.com/file/d/1P9FtENVpuaYjOJVdr_oiVhOIv3CW9MsQ/view?usp=sharing)]
+[Watch the video on Google Drive here.](https://drive.google.com/file/d/1P9FtENVpuaYjOJVdr_oiVhOIv3CW9MsQ/view?usp=sharing)
 
 ## License
 

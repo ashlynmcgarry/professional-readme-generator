@@ -31,7 +31,11 @@ This project is licensed under [MIT License](https://opensource.org/licenses/MIT
 
 ## Contributing
 
-Starter code for this project was taken from [coding-boot-camp/potential-enigma](https://github.com/coding-boot-camp/potential-enigma).
+If you want to contribute to the project and make it better, please feel free. 
+
+## Credits
+
+Starter code for this project was taken from [coding-boot-camp/potential-enigma](https://github.com/coding-boot-camp/potential-enigma). Assistance for this project was also provided by the AI Xpert Learning Assistant within Bootcamp Spot. This assistance included answering questions, explaining concepts, debugging code and providing examples. 
 
 ## Tests
 
